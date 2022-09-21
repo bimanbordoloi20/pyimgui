@@ -23,6 +23,6 @@ mock
 #       it's better set version constraint until we drop old Python versions
 #       rather then add some more compat shims
 # future: remove once we obsolete Python3.7
-pytest<6.0.0
+pytest
 
 coveralls
