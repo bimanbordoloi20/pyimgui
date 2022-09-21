@@ -1,6 +1,6 @@
 [tool.cibuildwheel]
 
-skip = "cp310-*"
+skip = "cp27-cp39"
 
 build-verbosity = 1
 
